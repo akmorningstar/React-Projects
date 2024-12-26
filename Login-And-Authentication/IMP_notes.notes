@@ -1,0 +1,14 @@
+Backend:
+    1. Have used JOI library to validate the input data.
+    2. Have used CORS to allow the cross origin requests. Thereby allowing the front end to make requests to the server. This library also to allow or restrict resources requested from a different domain (origin) than the one serving the resource. It plays a crucial role in web security and cross-origin communication.
+    3. Have used `express` library to create the server.
+    4. Have used `nodemon` library to restart the server automatically when the code changes.
+    5. have used `mysql` library to connect to the database.
+
+
+Frontend:
+    1. Have used typescript as 
+    2. `axios` library to make the API requests to the server.
+    3. `react-router-dom` library to create the routes in the application.
+    4. `react-toastify` library used to show the success and error messages.
+    

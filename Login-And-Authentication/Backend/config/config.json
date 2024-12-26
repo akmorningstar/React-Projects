@@ -1,0 +1,7 @@
+{
+  "host":"localhost",
+  "user":"root",
+  "database": "reactlogindb",
+  "password":"qwerty12345"
+
+}

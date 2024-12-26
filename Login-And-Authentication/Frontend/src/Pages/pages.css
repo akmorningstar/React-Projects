@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 32px 48px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 8px 8px 24px 0px rgba(0,0,0,0.1);
+    margin:auto;
+    margin-top: 200px;
+
+}
+.container h1{
+  margin-bottom: 20px;
+}
+
+.container form{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+}
+
+.container-fields{
+  display: flex;
+  flex-direction: column;
+}
+
+.container-fields input{
+  width: 100%;
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  border-radius: 1px;
+  cursor: pointer;
+}
+.container-fields input::placeholder{
+  font-size: 12px;
+  font-style: italic;
+
+}
